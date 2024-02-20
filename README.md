@@ -13,7 +13,7 @@ This project is Contour Detection and Shape Detection using C++ and OpenCV.
 
 ## Conclusion
 
-<img width="960" alt="Ekran görüntüsü 2024-02-20 182256" src="https://github.com/serttasbugrahan/shape-detection-opencv/assets/140887398/b25598a6-bf9a-4019-a534-861a3f186abb">
+<img width="480" alt="Ekran görüntüsü 2024-02-20 182256" src="https://github.com/serttasbugrahan/shape-detection-opencv/assets/140887398/b25598a6-bf9a-4019-a534-861a3f186abb">
 
 
 ## Installation
