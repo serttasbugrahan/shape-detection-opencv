@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\BUGRAHAN\source\repos\Project1\Project1\main.cpp(24,12): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\BUGRAHAN\source\repos\Project1\Project1\main.cpp(32,15): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  Project1.vcxproj -> C:\Users\BUGRAHAN\source\repos\Project1\x64\Debug\Project1.exe
